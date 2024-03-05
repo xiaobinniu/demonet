@@ -1,0 +1,1 @@
+import{j as r}from"./index-B2SmKpul.js";import{V as s}from"./Vip-FaAyRF3h.js";import"./useAuthNavi-F9d4edGU.js";function t(){return r.jsx("div",{children:r.jsx("div",{className:"max-w-[6.3rem]",children:r.jsx(s,{})})})}export{t as default};

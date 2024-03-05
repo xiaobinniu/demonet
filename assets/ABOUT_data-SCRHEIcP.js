@@ -1,0 +1,1 @@
+const e=[{title:"",content:"BRPLAY is Brazil's leading gaming brand, offering a variety of online betting options. From sports betting to casino games, BRPLAY has something to suit every player's preference. The brand is committed to ensuring fair and responsible gaming and customer satisfaction."}];export{e as a};
